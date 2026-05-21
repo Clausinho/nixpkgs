@@ -79,3 +79,10 @@ To update module `$module` from `$oldversion` in branch `$oldmajor` to version
 4. Fix any conflicts.
 5. Open a pull request for the changes.
 6. Follow the instructions above to recreate the module patch in Nixpkgs.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/libraries/qt-5/5.15/README|5.15]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/libraries/qt-5/hooks/README|hooks]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/libraries/qt-5/modules/README|modules]]
+<!-- PARA-WIKI-LINKS:END -->

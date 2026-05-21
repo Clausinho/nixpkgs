@@ -39,3 +39,19 @@ If the package you are adding is a third-party library with custom patches from 
 As mentioned before, currently most libraries within `linphone-sdk` are simply git submodules, but in the future, they will be properly integrated into the monorepo (this is already the case for their main branch).
 
 Also, currently the build relies on Qt5, but starting with Linphone 6.0.0, which as of 2025-09-20 is in its RC phase, the build will involve Qt6.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/bc-decaf/README|bc decaf]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/bc-ispell/README|bc ispell]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/bc-mbedtls/README|bc mbedtls]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/bc-soci/README|bc soci]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/bctoolbox/README|bctoolbox]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/bcunit/README|bcunit]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/belcard/README|belcard]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/belle-sip/README|belle sip]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/belr/README|belr]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/bzrtp/README|bzrtp]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/liblinphone/README|liblinphone]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/instant-messengers/linphone/lime/README|lime]]
+<!-- PARA-WIKI-LINKS:END -->

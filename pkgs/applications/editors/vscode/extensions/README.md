@@ -40,3 +40,19 @@
       >
       > Release: https://github.com/owner/project/releases/tag/2.3.4
   - Multiple extensions can be added in a single PR, but each extension requires its own commit.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/almenon.arepl/README|almenon.arepl]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/amazonwebservices.amazon-q-vscode/README|amazonwebservices.amazon q vscode]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/anthropic.claude-code/README|anthropic.claude code]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/anweber.vscode-httpyac/README|anweber.vscode httpyac]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/asciidoctor.asciidoctor-vscode/README|asciidoctor.asciidoctor vscode]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/augment.vscode-augment/README|augment.vscode augment]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/azdavis.millet/README|azdavis.millet]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/b4dm4n.vscode-nixpkgs-fmt/README|b4dm4n.vscode nixpkgs fmt]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/betterthantomorrow.calva/README|betterthantomorrow.calva]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/bierner.color-info/README|bierner.color info]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/biomejs.biome/README|biomejs.biome]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vscode/extensions/bodil.blueprint-gtk/README|bodil.blueprint gtk]]
+<!-- PARA-WIKI-LINKS:END -->

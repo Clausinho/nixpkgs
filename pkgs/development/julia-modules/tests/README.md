@@ -23,3 +23,8 @@ You can run `./run_tests.sh --help` to see additional options for the test harne
 * `-n`/`--top-n`: how many of the top packages to build (default: 100).
 * `-p`/`--parallelism`: how many builds to run at once (default: 10).
 * `-c`/`--count-file`: path to `top-julia-packages.yaml`.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/julia-modules/tests/julia-top-n/README|julia top n]]
+<!-- PARA-WIKI-LINKS:END -->

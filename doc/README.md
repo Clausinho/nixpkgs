@@ -452,3 +452,19 @@ Check the [list of possible replacement patterns](https://github.com/executableb
 ## Getting help
 
 If you need documentation-specific help or reviews, ping [@NixOS/documentation-team](https://github.com/orgs/nixos/teams/documentation-team) on your pull request.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/build-helpers/README|build helpers]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/contributing/README|contributing]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/development/README|development]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/doc-support/README|doc support]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/functions/README|functions]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/hooks/README|hooks]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/interoperability/README|interoperability]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/languages-frameworks/README|languages frameworks]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/module-system/README|module system]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/modules/README|modules]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/packages/README|packages]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/doc/release-notes/README|release notes]]
+<!-- PARA-WIKI-LINKS:END -->

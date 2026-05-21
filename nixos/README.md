@@ -118,3 +118,12 @@ Sample template for a new module review is provided below.
 ```
 
 See also [./README-modular-services.md](./README-modular-services.md).
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/doc/README|doc]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/lib/README|lib]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/maintainers/README|maintainers]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/modules/README|modules]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/tests/README|tests]]
+<!-- PARA-WIKI-LINKS:END -->

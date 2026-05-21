@@ -1,0 +1,24 @@
+---
+title: "kwin"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# kwin
+
+## Summary
+PARA area folder under plasma. Contains 0 subfolders and 4 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `0001-Lower-CAP_SYS_NICE-from-the-ambient-set.patch` — PATCH file
+- `0001-NixOS-Unwrap-executable-name-for-.desktop-search.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/kde/plasma/README|plasma]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

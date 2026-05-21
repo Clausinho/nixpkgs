@@ -143,3 +143,9 @@ The modular service infrastructure avoids exposing `pkgs` as a module argument t
       ];
     }
     ```
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/modules/system/service/portable/README|portable]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/modules/system/service/systemd/README|systemd]]
+<!-- PARA-WIKI-LINKS:END -->

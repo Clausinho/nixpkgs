@@ -135,3 +135,7 @@ Uses the same mechanism as a nixpkg src, except the source is downloaded with a 
 
 Add an appropriate fetcher to the `cpmSrcs` list, ensuring that the name matches what CPM expects (case-sensitive).
 
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/tr/tracy/cmake/README|cmake]]
+<!-- PARA-WIKI-LINKS:END -->

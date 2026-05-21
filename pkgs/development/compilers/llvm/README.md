@@ -96,3 +96,12 @@ To add an LLVM patch in the Nixpkgs tree,
    - Add `{ "clang/purity.patch" = [ { after = 12; before = 15; path = ../12; } ]; }` to `common/patches.nix`.
    You may have multiple different patches with the same name that would apply to different versions; in that case, add the necessary constraints to `common/patches.nix`.
 
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/compilers/llvm/18/README|18]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/compilers/llvm/19/README|19]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/compilers/llvm/20/README|20]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/compilers/llvm/21/README|21]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/compilers/llvm/22/README|22]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/compilers/llvm/common/README|common]]
+<!-- PARA-WIKI-LINKS:END -->

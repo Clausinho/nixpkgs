@@ -35,3 +35,9 @@ ruff check --fix .
 # format code
 ruff format .
 ```
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ni/nixos-rebuild-ng/src/README|src]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ni/nixos-rebuild-ng/tests/README|tests]]
+<!-- PARA-WIKI-LINKS:END -->

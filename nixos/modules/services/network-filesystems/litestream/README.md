@@ -1,0 +1,23 @@
+---
+title: "litestream"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# litestream
+
+## Summary
+PARA area folder under network filesystems. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `default.md` — Markdown note
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/modules/services/network-filesystems/README|network filesystems]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

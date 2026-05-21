@@ -11,3 +11,9 @@ $ export NIXPKGS_ALLOW_UNFREE=1
 $ cd path/to/nixpkgs
 $ nix-build -A androidenv.test-suite
 ```
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/mobile/androidenv/examples/README|examples]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/mobile/androidenv/ndk-bundle/README|ndk bundle]]
+<!-- PARA-WIKI-LINKS:END -->

@@ -1,0 +1,24 @@
+---
+title: "qtmultimedia"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# qtmultimedia
+
+## Summary
+PARA area folder under modules. Contains 0 subfolders and 3 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `windows-no-uppercase-libs.patch` — PATCH file
+- `windows-resolve-function-name.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/libraries/qt-6/modules/README|modules]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

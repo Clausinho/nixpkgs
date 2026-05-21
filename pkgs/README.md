@@ -1257,3 +1257,19 @@ If you are investigating a "true positive":
     - Once the fix is merged into `master`, [submit the change to the vulnerable release branch(es)](../CONTRIBUTING.md#how-to-backport-pull-requests);
   - **Yes**: [Backport the change to the vulnerable release branch(es)](../CONTRIBUTING.md#how-to-backport-pull-requests).
 - When the patch has made it into all the relevant branches (`master`, and the vulnerable releases), close the relevant issue(s).
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/README|applications]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/build-support/README|build support]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/common-updater/README|common updater]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/data/README|data]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/desktops/README|desktops]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/README|development]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/games/README|games]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/kde/README|kde]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/misc/README|misc]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/os-specific/README|os specific]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/pkgs-lib/README|pkgs lib]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/README|servers]]
+<!-- PARA-WIKI-LINKS:END -->

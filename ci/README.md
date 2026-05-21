@@ -104,3 +104,8 @@ This script can also be run locally to print basic test cases.
 [@NixOS/nixpkgs-ci]: https://github.com/orgs/NixOS/teams/nixpkgs-ci
 [@NixOS/nixpkgs-core]: https://github.com/orgs/NixOS/teams/nixpkgs-core
 [RFC 172]: https://github.com/NixOS/rfcs/pull/172
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/ci/codeowners-validator/README|codeowners validator]]
+<!-- PARA-WIKI-LINKS:END -->

@@ -20,3 +20,12 @@ K3s is a simplified [Kubernetes](https://wiki.nixos.org/wiki/Kubernetes) distrib
 
 * [Package Versioning Rationale](docs/VERSIONING.md)
 * [Package Maintenance Documentation](docs/PKG_UPKEEP.md)
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/cluster/k3s/1_32/README|1 32]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/cluster/k3s/1_33/README|1 33]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/cluster/k3s/1_34/README|1 34]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/cluster/k3s/1_35/README|1 35]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/networking/cluster/k3s/docs/README|docs]]
+<!-- PARA-WIKI-LINKS:END -->

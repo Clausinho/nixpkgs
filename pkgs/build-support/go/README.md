@@ -47,3 +47,8 @@ Therefore, on the stable release, new Go versions will be backported to the `rel
 However, `rc` versions should not be backported to the stable branch.
 
 [1]: http://go.dev/doc/go1compat
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/build-support/go/tests/README|tests]]
+<!-- PARA-WIKI-LINKS:END -->

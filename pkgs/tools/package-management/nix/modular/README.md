@@ -15,3 +15,11 @@ Using filesets with a fetched source would require "IFD", as the fetching happen
 
 The Nixpkgs for Nix inherits the `workDir` attribute that determines the location of the subproject to build.
 It is compared to this directory to produce the correct relative path, similar to upstream.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/tools/package-management/nix/modular/doc/README|doc]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/tools/package-management/nix/modular/packaging/README|packaging]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/tools/package-management/nix/modular/src/README|src]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/tools/package-management/nix/modular/tests/README|tests]]
+<!-- PARA-WIKI-LINKS:END -->

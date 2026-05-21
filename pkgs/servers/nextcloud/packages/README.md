@@ -56,3 +56,8 @@ Using it together with the Nextcloud module could look like this:
 Adapt the version number in the Nextcloud package and nextcloudPackages set
 according to the Nextcloud version you wish to use. There are several supported
 stable Nextcloud versions available in the repository.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/nextcloud/packages/apps/README|apps]]
+<!-- PARA-WIKI-LINKS:END -->

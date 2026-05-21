@@ -22,3 +22,8 @@ Finally, we set ELM_HOME to point to these pre-fetched artifacts so
 that the default of ~/.elm isn't used.
 
 More: https://blog.hercules-ci.com/elm/2019/01/03/elm2nix-0.1/
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/compilers/elm/lib/README|lib]]
+<!-- PARA-WIKI-LINKS:END -->

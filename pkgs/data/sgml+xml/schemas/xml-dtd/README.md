@@ -1,0 +1,21 @@
+---
+title: "xml dtd"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# xml dtd
+
+## Summary
+PARA area folder under schemas. Contains 1 subfolders and 0 direct files.
+
+## Key Files
+- `docbook/` — child folder
+
+## Related
+- Children: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/data/sgml+xml/schemas/xml-dtd/docbook/README|docbook]]
+
+## Notes
+- Latest direct update: `docbook/`

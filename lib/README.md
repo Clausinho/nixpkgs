@@ -157,3 +157,8 @@ fileset/tests.sh
 
     Closes #264537
 
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/lib/network/README|network]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/lib/systems/README|systems]]
+<!-- PARA-WIKI-LINKS:END -->

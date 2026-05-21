@@ -88,3 +88,19 @@ can be ignored on a per requirement basis.
   ignoreVersionRequirement = [ "pyemvue" ];
 }
 ```
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/adaptive_lighting/README|adaptive lighting]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/alarmo/README|alarmo]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/alphaess/README|alphaess]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/amshan/README|amshan]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/auth_oidc/README|auth oidc]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/average/README|average]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/awtrix/README|awtrix]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/battery_notes/README|battery notes]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/benqprojector/README|benqprojector]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/better_thermostat/README|better thermostat]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/bodymiscale/README|bodymiscale]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/home-assistant/custom-components/browser-mod/README|browser mod]]
+<!-- PARA-WIKI-LINKS:END -->

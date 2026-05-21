@@ -39,3 +39,8 @@ Kanidm versions are supported for 30 days after the release of new versions. Fol
 1. Update `pkgs/top-level/release.nix` and remove `kanidm_1_3*` from `permittedInsecurePackages`
 1. Update `pkgs/top-level/aliases.nix` and add `kanidm_1_4` and `kanidmWithSecretProvisioning_1_4`
 1. Remove `pkgs/by-name/ka/kanidm/1_3.nix`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/kanidm/provision-patches/README|provision patches]]
+<!-- PARA-WIKI-LINKS:END -->

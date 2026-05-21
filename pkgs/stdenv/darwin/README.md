@@ -24,3 +24,8 @@ There are effectively two steps when updating the standard environment:
    new warnings or by fixing the actual source (e.g., with a patch or update upstream). If the
    fix is trivial (e.g., adding a missing int to an implicit declaration), it is better to fix
    the problem instead of silencing the warning.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/stdenv/darwin/bootstrap-files/README|bootstrap files]]
+<!-- PARA-WIKI-LINKS:END -->
