@@ -13,3 +13,8 @@ $ cd test
 $ nix-shell
 nix-shell> ./run.sh
 ```
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/maintainers/scripts/auto-rebase/test/README|test]]
+<!-- PARA-WIKI-LINKS:END -->

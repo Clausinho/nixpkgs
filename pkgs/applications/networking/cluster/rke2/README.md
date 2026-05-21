@@ -121,3 +121,11 @@ respective package block.
 #### Additional Resources
 
 - [RKE2 Product Support Lifecycle page](https://www.suse.com/lifecycle#rke2)
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/cluster/rke2/1_32/README|1 32]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/cluster/rke2/1_33/README|1 33]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/cluster/rke2/1_34/README|1 34]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/cluster/rke2/1_35/README|1 35]]
+<!-- PARA-WIKI-LINKS:END -->

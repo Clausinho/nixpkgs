@@ -1,0 +1,23 @@
+---
+title: "coq hammer"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# coq hammer
+
+## Summary
+PARA area folder under coq modules. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `tactics.nix` — NIX file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/coq-modules/README|coq modules]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

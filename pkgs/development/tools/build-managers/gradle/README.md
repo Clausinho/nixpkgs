@@ -243,3 +243,8 @@ the following:
 
 Please be mindful of the above when working on Gradle support for
 Nixpkgs.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/build-managers/gradle/tests/README|tests]]
+<!-- PARA-WIKI-LINKS:END -->

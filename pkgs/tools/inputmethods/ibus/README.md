@@ -1,0 +1,24 @@
+---
+title: "ibus"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# ibus
+
+## Summary
+PARA area folder under inputmethods. Contains 0 subfolders and 5 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `build-without-dbus-launch.patch` — PATCH file
+- `fix-paths.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/tools/inputmethods/README|inputmethods]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

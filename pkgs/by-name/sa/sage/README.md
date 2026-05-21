@@ -44,3 +44,9 @@ If the problem is not obvious, you can try to first update sage to an intermedia
 
 If you couldn't fix the problem, create a GitHub issue on the nixpkgs repo and ping the sage maintainers (as listed in the sage package).
 Describe what you did and why it didn't work. Afterwards it would be great if you help the next guy out and improve this documentation!
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/sa/sage/patches/README|patches]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/sa/sage/python-modules/README|python modules]]
+<!-- PARA-WIKI-LINKS:END -->

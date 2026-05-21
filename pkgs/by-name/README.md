@@ -217,3 +217,19 @@ This is not required, but the above solution also allows exposing the package se
   inherit (foo-versions) foo_1 foo_2;
 }
 ```
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/a-/README|a]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/a2/README|a2]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/a4/README|a4]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/a5/README|a5]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/aa/README|aa]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ab/README|ab]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ac/README|ac]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ad/README|ad]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ae/README|ae]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/af/README|af]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ag/README|ag]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ah/README|ah]]
+<!-- PARA-WIKI-LINKS:END -->

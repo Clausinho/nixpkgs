@@ -1,0 +1,23 @@
+---
+title: "aws assume role"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# aws assume role
+
+## Summary
+PARA area folder under aw. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `0001-add-go.mod-go.sum.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/aw/README|aw]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

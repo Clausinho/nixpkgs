@@ -1,0 +1,24 @@
+---
+title: "swayfx unwrapped"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# swayfx unwrapped
+
+## Summary
+PARA area folder under sw. Contains 0 subfolders and 5 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `sway-config-nixos-paths.patch` — PATCH file
+- `sway-config-no-nix-store-references.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/sw/README|sw]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

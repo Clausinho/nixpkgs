@@ -1,0 +1,23 @@
+---
+title: "fritzing"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# fritzing
+
+## Summary
+PARA area folder under fr. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `fix-stricter-types.patch` — PATCH file
+- `package.nix` — NIX file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/fr/README|fr]]
+
+## Notes
+- Latest direct update: `fix-stricter-types.patch`
+- Latest recursive update: `fix-stricter-types.patch`

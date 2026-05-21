@@ -1,0 +1,23 @@
+---
+title: "afuse"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# afuse
+
+## Summary
+PARA area folder under af. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `001-darwin-fdatasync.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/af/README|af]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

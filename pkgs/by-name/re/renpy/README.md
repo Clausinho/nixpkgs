@@ -1,0 +1,24 @@
+---
+title: "renpy"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# renpy
+
+## Summary
+PARA area folder under re. Contains 0 subfolders and 4 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `noSteam.patch` — PATCH file
+- `shutup-erofs-errors.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/re/README|re]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

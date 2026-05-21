@@ -76,6 +76,10 @@ stdenvNoCC.mkDerivation (finalAttrs: {
       $libdir/node_modules/.pnpm/node_modules/moltbot \
       $libdir/node_modules/.pnpm/node_modules/openclaw-control-ui
 
+    # Self-referential symlink so bundled extensions can resolve
+    # `import from "openclaw/plugin-sdk/..."` via node_modules resolution
+    ln -s $libdir $libdir/node_modules/openclaw
+
     makeWrapper ${lib.getExe nodejs_22} $out/bin/openclaw \
       --add-flags "$libdir/dist/index.js" \
       --set NODE_PATH "$libdir/node_modules"

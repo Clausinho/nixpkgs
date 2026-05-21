@@ -1,0 +1,24 @@
+---
+title: "ilbc"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# ilbc
+
+## Summary
+PARA area folder under il. Contains 0 subfolders and 3 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `CMakeLists.txt` — text file
+- `extract-cfile.awk` — AWK file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/il/README|il]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

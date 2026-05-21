@@ -1,0 +1,23 @@
+---
+title: "cantata"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# cantata
+
+## Summary
+PARA area folder under ca. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `dont-check-for-perl-in-PATH.diff` — DIFF file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ca/README|ca]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

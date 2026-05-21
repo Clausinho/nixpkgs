@@ -40,3 +40,8 @@ img="/subscriptions/.../..." # use output from last command
    Probably has security benefits; definitely has closure-size benefits.
    (It's likely the VM will need to be booted with a special flag. See:
    https://github.com/Azure/azure-cli/issues/12775 for details.)
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/maintainers/scripts/azure-new/examples/README|examples]]
+<!-- PARA-WIKI-LINKS:END -->

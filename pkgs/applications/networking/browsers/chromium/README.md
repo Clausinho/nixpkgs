@@ -89,3 +89,9 @@ Useful tests:
 - WebGL: https://get.webgl.org/
 - VA-API: https://wiki.archlinux.org/index.php/chromium#Hardware_video_acceleration
 - Optional: Widevine CDM (proprietary), Benchmarks, Ozone, etc.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/browsers/chromium/files/README|files]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/browsers/chromium/patches/README|patches]]
+<!-- PARA-WIKI-LINKS:END -->

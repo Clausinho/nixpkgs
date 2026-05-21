@@ -30,3 +30,19 @@ The actual packages are created by `buildGnomeExtension.nix`, provided the corre
 ## Manually packaged extensions
 
 Manually packaged extensions overwrite some of the automatically packaged ones in `pkgs.gnomeExtensions`. They are listed in `manuallyPackaged.nix`; every extension has its own sub-folder.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/arcmenu/README|arcmenu]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/argos/README|argos]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/clock-override/README|clock override]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/drop-down-terminal/README|drop down terminal]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/EasyScreenCast/README|EasyScreenCast]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/extensionOverridesPatches/README|extensionOverridesPatches]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/forge/README|forge]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/gsconnect/README|gsconnect]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/guillotine/README|guillotine]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/impatience/README|impatience]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/no-title-bar/README|no title bar]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/gnome/extensions/pano/README|pano]]
+<!-- PARA-WIKI-LINKS:END -->

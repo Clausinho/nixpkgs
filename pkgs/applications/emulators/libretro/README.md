@@ -38,3 +38,8 @@ in
 ```
 
 For advanced customization, see `wrapRetroArch` wrapper.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/emulators/libretro/cores/README|cores]]
+<!-- PARA-WIKI-LINKS:END -->

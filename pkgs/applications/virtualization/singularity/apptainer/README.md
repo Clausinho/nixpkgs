@@ -1,0 +1,22 @@
+---
+title: "apptainer"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# apptainer
+
+## Summary
+PARA area folder under singularity. Contains 0 subfolders and 1 direct files.
+
+## Key Files
+- `0001-ldCache-patch-for-driverLink.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/virtualization/singularity/README|singularity]]
+
+## Notes
+- Latest direct update: `0001-ldCache-patch-for-driverLink.patch`
+- Latest recursive update: `0001-ldCache-patch-for-driverLink.patch`

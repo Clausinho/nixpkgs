@@ -1,0 +1,22 @@
+---
+title: "jmc2obj"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# jmc2obj
+
+## Summary
+PARA area folder under jm. Contains 0 subfolders and 1 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/jm/README|jm]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

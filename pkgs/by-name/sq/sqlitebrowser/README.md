@@ -1,0 +1,23 @@
+---
+title: "sqlitebrowser"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# sqlitebrowser
+
+## Summary
+PARA area folder under sq. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `macos.patch` — PATCH file
+- `package.nix` — NIX file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/sq/README|sq]]
+
+## Notes
+- Latest direct update: `macos.patch`
+- Latest recursive update: `macos.patch`

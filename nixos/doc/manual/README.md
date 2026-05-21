@@ -2,3 +2,12 @@
 Link:
 
 https://nixos.org/manual/nixos/unstable/#chap-contributing
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/doc/manual/administration/README|administration]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/doc/manual/configuration/README|configuration]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/doc/manual/development/README|development]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/doc/manual/installation/README|installation]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/doc/manual/release-notes/README|release notes]]
+<!-- PARA-WIKI-LINKS:END -->

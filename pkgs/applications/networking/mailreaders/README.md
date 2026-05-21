@@ -1,0 +1,24 @@
+---
+title: "mailreaders"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# mailreaders
+
+## Summary
+PARA area folder under networking. Contains 5 subfolders and 0 direct files.
+
+## Key Files
+- `astroid/` — child folder
+- `evolution/` — child folder
+- `notmuch/` — child folder
+
+## Related
+- Children: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/mailreaders/astroid/README|astroid]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/mailreaders/evolution/README|evolution]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/mailreaders/notmuch/README|notmuch]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/mailreaders/thunderbird/README|thunderbird]]
+- More: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/mailreaders/thunderbird-bin/README|thunderbird bin]]
+
+## Notes
+- Latest direct update: `astroid/`

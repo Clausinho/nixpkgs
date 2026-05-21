@@ -1,0 +1,23 @@
+---
+title: "pslib"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# pslib
+
+## Summary
+PARA area folder under ps. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `cmake4.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ps/README|ps]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

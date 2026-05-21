@@ -7,3 +7,8 @@ Exceptions:
 - modules whose only purpose is to test code in this repository
 
 The emphasis is on _importable_ modules, i.e. ones that aren't inherent to and built into the Module System application.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/modules/generic/README|generic]]
+<!-- PARA-WIKI-LINKS:END -->

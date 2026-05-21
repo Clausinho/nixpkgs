@@ -1,0 +1,23 @@
+---
+title: "add nuget deps"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# add nuget deps
+
+## Summary
+PARA area folder under dotnet. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `fetch-deps.sh` — SH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/build-support/dotnet/README|dotnet]]
+
+## Notes
+- Latest direct update: `fetch-deps.sh`
+- Latest recursive update: `fetch-deps.sh`

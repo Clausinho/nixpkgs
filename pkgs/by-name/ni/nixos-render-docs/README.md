@@ -89,3 +89,8 @@ release-notes/release-notes.md
 ~~~
 
 will render the release notes into a `release-notes.html` file, instead of making it a section within the default `index.html`.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ni/nixos-render-docs/src/README|src]]
+<!-- PARA-WIKI-LINKS:END -->

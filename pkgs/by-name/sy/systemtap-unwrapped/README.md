@@ -1,0 +1,23 @@
+---
+title: "systemtap unwrapped"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# systemtap unwrapped
+
+## Summary
+PARA area folder under sy. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `systemtap-elaborate-fix-32bit-build.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/sy/README|sy]]
+
+## Notes
+- Latest direct update: `systemtap-elaborate-fix-32bit-build.patch`
+- Latest recursive update: `systemtap-elaborate-fix-32bit-build.patch`

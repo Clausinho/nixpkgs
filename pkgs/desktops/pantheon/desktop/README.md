@@ -1,0 +1,25 @@
+---
+title: "desktop"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# desktop
+
+## Summary
+PARA area folder under pantheon. Contains 11 subfolders and 0 direct files.
+
+## Key Files
+- `elementary-default-settings/` — child folder
+- `elementary-greeter/` — child folder
+- `elementary-gsettings-schemas/` — child folder
+
+## Related
+- Children: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/elementary-default-settings/README|elementary default settings]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/elementary-greeter/README|elementary greeter]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/elementary-gsettings-schemas/README|elementary gsettings schemas]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/elementary-onboarding/README|elementary onboarding]]
+- More: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/elementary-print-shim/README|elementary print shim]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/elementary-session-settings/README|elementary session settings]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/elementary-shortcut-overlay/README|elementary shortcut overlay]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/file-roller-contract/README|file roller contract]]
+- More: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/gala/README|gala]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/wingpanel/README|wingpanel]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/desktops/pantheon/desktop/wingpanel-indicators/README|wingpanel indicators]]
+
+## Notes
+- Latest direct update: `elementary-default-settings/`

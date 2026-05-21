@@ -1,0 +1,23 @@
+---
+title: "wolfram engine"
+para_type: area
+created: 2026-04-29
+updated: 2026-04-29
+tags: [area, wiki]
+---
+
+# wolfram engine
+
+## Summary
+PARA area folder under math. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `l10ns.nix` — NIX file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/science/math/README|math]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

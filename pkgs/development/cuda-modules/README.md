@@ -97,3 +97,9 @@ we include the hook by default for packages in `cudaPackages` (by adding it as a
 input in `genericManifestBuilder`). We also make sure it's included after
 `addOpenGLRunpathHook`, so that it appears _before_ in the `DT_RUNPATH` and
 takes precedence.
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/cuda-modules/backendStdenv/README|backendStdenv]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/cuda-modules/buildRedist/README|buildRedist]]
+<!-- PARA-WIKI-LINKS:END -->

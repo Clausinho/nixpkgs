@@ -39,3 +39,8 @@ There is a script to update minor versions:
 ```
 ./pkgs/tools/package-management/nix/update-all.sh
 ```
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/tools/package-management/nix/patches/README|patches]]
+<!-- PARA-WIKI-LINKS:END -->
