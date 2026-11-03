@@ -2,7 +2,7 @@
 title: "bootstrap"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,10 @@ PARA area folder under python modules. Contains 3 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `flit-core/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/python-modules/bootstrap/flit-core/README|flit core]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/python-modules/bootstrap/installer/README|installer]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/python-modules/bootstrap/packaging/README|packaging]]
+<!-- PARA-WIKI-LINKS:END -->

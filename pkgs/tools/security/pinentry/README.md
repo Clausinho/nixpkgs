@@ -2,7 +2,7 @@
 title: "pinentry"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,8 @@ PARA area folder under security. Contains 1 subfolders and 5 direct files.
 
 ## Notes
 - Latest direct update: `mac/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/tools/security/pinentry/mac/README|mac]]
+<!-- PARA-WIKI-LINKS:END -->

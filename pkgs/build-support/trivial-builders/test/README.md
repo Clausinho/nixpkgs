@@ -2,7 +2,7 @@
 title: "test"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,8 @@ PARA area folder under trivial builders. Contains 1 subfolders and 12 direct fil
 
 ## Notes
 - Latest direct update: `references/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/build-support/trivial-builders/test/references/README|references]]
+<!-- PARA-WIKI-LINKS:END -->

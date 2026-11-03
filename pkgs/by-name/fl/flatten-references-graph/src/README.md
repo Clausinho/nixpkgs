@@ -2,7 +2,7 @@
 title: "src"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -20,3 +20,8 @@ PARA area folder under flatten references graph. Contains 1 subfolders and 1 dir
 
 ## Notes
 - Latest direct update: `flatten_references_graph/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/fl/flatten-references-graph/src/flatten_references_graph/README|flatten references graph]]
+<!-- PARA-WIKI-LINKS:END -->

@@ -2,7 +2,7 @@
 title: "basicRoot"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -20,3 +20,8 @@ PARA area folder under files. Contains 1 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `etc/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/tests/gitlab/runner/podman-runner/files/basicRoot/etc/README|etc]]
+<!-- PARA-WIKI-LINKS:END -->

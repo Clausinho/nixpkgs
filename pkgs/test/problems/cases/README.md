@@ -2,7 +2,7 @@
 title: "cases"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -23,3 +23,19 @@ PARA area folder under problems. Contains 30 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `allow-broken/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/allow-broken/README|allow broken]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/allow-broken-env/README|allow broken env]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/allow-broken-predicate-match/README|allow broken predicate match]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/allow-broken-predicate-mismatch/README|allow broken predicate mismatch]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/broken/README|broken]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/broken-manual/README|broken manual]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/deprecated-and-removal-and-maintainerless-error/README|deprecated and removal and maintainerless error]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/deprecated-and-removal-error/README|deprecated and removal error]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/deprecated-error/README|deprecated error]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/deprecated-ignore/README|deprecated ignore]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/deprecated-warn/README|deprecated warn]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/test/problems/cases/handleEvalIssue/README|handleEvalIssue]]
+<!-- PARA-WIKI-LINKS:END -->

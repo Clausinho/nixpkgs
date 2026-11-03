@@ -2,7 +2,7 @@
 title: "lix"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,8 @@ PARA area folder under package management. Contains 1 subfolders and 3 direct fi
 
 ## Notes
 - Latest direct update: `doc/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/tools/package-management/lix/doc/README|doc]]
+<!-- PARA-WIKI-LINKS:END -->

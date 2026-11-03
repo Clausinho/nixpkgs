@@ -2,7 +2,7 @@
 title: "mbp modules"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -19,3 +19,8 @@ PARA area folder under linux. Contains 1 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `mbp2018-bridge-drv/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/os-specific/linux/mbp-modules/mbp2018-bridge-drv/README|mbp2018 bridge drv]]
+<!-- PARA-WIKI-LINKS:END -->

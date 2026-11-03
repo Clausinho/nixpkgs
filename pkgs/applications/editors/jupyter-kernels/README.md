@@ -2,7 +2,7 @@
 title: "jupyter kernels"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,11 @@ PARA area folder under editors. Contains 4 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `clojupyter/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jupyter-kernels/clojupyter/README|clojupyter]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jupyter-kernels/octave/README|octave]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jupyter-kernels/wolfram/README|wolfram]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jupyter-kernels/xeus-cling/README|xeus cling]]
+<!-- PARA-WIKI-LINKS:END -->

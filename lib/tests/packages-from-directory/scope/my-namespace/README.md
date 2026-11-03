@@ -2,7 +2,7 @@
 title: "my namespace"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,9 @@ PARA area folder under scope. Contains 2 subfolders and 2 direct files.
 
 ## Notes
 - Latest direct update: `f/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/lib/tests/packages-from-directory/scope/my-namespace/f/README|f]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/lib/tests/packages-from-directory/scope/my-namespace/my-sub-namespace/README|my sub namespace]]
+<!-- PARA-WIKI-LINKS:END -->

@@ -2,7 +2,7 @@
 title: "lua 5"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,9 @@ PARA area folder under interpreters. Contains 2 subfolders and 16 direct files.
 
 ## Notes
 - Latest direct update: `hooks/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/interpreters/lua-5/hooks/README|hooks]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/interpreters/lua-5/tests/README|tests]]
+<!-- PARA-WIKI-LINKS:END -->

@@ -1,0 +1,29 @@
+---
+title: "ie"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-08
+tags: [area, wiki]
+---
+
+# ie
+
+## Summary
+PARA area folder under by name. Contains 2 subfolders and 0 direct files.
+
+## Key Files
+- `ieda/` — child folder
+- `ietf-cli/` — child folder
+
+## Related
+- Children: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ie/ieda/README|ieda]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ie/ietf-cli/README|ietf cli]]
+
+## Notes
+- Latest direct update: `ieda/`
+- Latest recursive update: `ieda/README.md`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ie/ieda/README|ieda]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ie/ietf-cli/README|ietf cli]]
+<!-- PARA-WIKI-LINKS:END -->

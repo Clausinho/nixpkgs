@@ -2,7 +2,7 @@
 title: "nixos"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -22,3 +22,8 @@ PARA area folder under branding. Contains 1 subfolders and 8 direct files.
 
 ## Notes
 - Latest direct update: `images/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ca/calamares-nixos-extensions/src/branding/nixos/images/README|images]]
+<!-- PARA-WIKI-LINKS:END -->

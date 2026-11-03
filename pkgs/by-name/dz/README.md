@@ -1,0 +1,27 @@
+---
+title: "dz"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-08
+tags: [area, wiki]
+---
+
+# dz
+
+## Summary
+PARA area folder under by name. Contains 1 subfolders and 0 direct files.
+
+## Key Files
+- `dzen2/` — child folder
+
+## Related
+- Children: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/dz/dzen2/README|dzen2]]
+
+## Notes
+- Latest direct update: `dzen2/`
+- Latest recursive update: `dzen2/README.md`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/dz/dzen2/README|dzen2]]
+<!-- PARA-WIKI-LINKS:END -->

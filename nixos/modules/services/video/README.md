@@ -2,7 +2,7 @@
 title: "video"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,9 @@ PARA area folder under services. Contains 2 subfolders and 8 direct files.
 
 ## Notes
 - Latest direct update: `epgstation/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/modules/services/video/epgstation/README|epgstation]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/modules/services/video/go2rtc/README|go2rtc]]
+<!-- PARA-WIKI-LINKS:END -->

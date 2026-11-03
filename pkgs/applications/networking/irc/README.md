@@ -2,7 +2,7 @@
 title: "irc"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,11 @@ PARA area folder under networking. Contains 4 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `communi/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/irc/communi/README|communi]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/irc/kvirc/README|kvirc]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/irc/quassel/README|quassel]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/networking/irc/weechat/README|weechat]]
+<!-- PARA-WIKI-LINKS:END -->

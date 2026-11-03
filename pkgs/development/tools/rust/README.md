@@ -2,7 +2,7 @@
 title: "rust"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,11 @@ PARA area folder under tools. Contains 4 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `bindgen/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/rust/bindgen/README|bindgen]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/rust/cargo-pgrx/README|cargo pgrx]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/rust/rustup/README|rustup]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/rust/rustup-toolchain-install-master/README|rustup toolchain install master]]
+<!-- PARA-WIKI-LINKS:END -->

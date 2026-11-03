@@ -2,7 +2,7 @@
 title: "src"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -19,3 +19,8 @@ PARA area folder under nixos render docs. Contains 2 subfolders and 1 direct fil
 
 ## Notes
 - Latest direct update: `nixos_render_docs/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/by-name/ni/nixos-render-docs/src/nixos_render_docs/README|nixos render docs]]
+<!-- PARA-WIKI-LINKS:END -->

@@ -2,7 +2,7 @@
 title: "emacs"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,10 @@ PARA area folder under editors. Contains 3 subfolders and 8 direct files.
 
 ## Notes
 - Latest direct update: `build-support/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/emacs/build-support/README|build support]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/emacs/elisp-packages/README|elisp packages]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/emacs/macport-noescape-noop/README|macport noescape noop]]
+<!-- PARA-WIKI-LINKS:END -->

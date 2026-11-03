@@ -2,7 +2,7 @@
 title: "chicken"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -20,3 +20,9 @@ PARA area folder under compilers. Contains 2 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `4/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/compilers/chicken/4/README|4]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/compilers/chicken/5/README|5]]
+<!-- PARA-WIKI-LINKS:END -->

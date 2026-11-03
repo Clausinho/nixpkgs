@@ -2,7 +2,7 @@
 title: "godot"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -22,3 +22,12 @@ PARA area folder under tools. Contains 5 subfolders and 7 direct files.
 
 ## Notes
 - Latest direct update: `3/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/godot/3/README|3]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/godot/4.3/README|4.3]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/godot/4.4/README|4.4]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/godot/4.5/README|4.5]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/tools/godot/4.6/README|4.6]]
+<!-- PARA-WIKI-LINKS:END -->

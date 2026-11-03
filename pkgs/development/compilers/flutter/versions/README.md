@@ -2,7 +2,7 @@
 title: "versions"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -23,3 +23,12 @@ PARA area folder under flutter. Contains 5 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `3_29/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/compilers/flutter/versions/3_29/README|3 29]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/compilers/flutter/versions/3_32/README|3 32]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/compilers/flutter/versions/3_35/README|3 35]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/compilers/flutter/versions/3_38/README|3 38]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/compilers/flutter/versions/3_41/README|3 41]]
+<!-- PARA-WIKI-LINKS:END -->

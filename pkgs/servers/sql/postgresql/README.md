@@ -2,7 +2,7 @@
 title: "postgresql"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,9 @@ PARA area folder under sql. Contains 2 subfolders and 14 direct files.
 
 ## Notes
 - Latest direct update: `ext/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/servers/sql/postgresql/ext/README|ext]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/servers/sql/postgresql/patches/README|patches]]
+<!-- PARA-WIKI-LINKS:END -->

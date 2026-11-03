@@ -2,7 +2,7 @@
 title: "acl2"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -20,3 +20,8 @@ PARA area folder under interpreters. Contains 1 subfolders and 2 direct files.
 
 ## Notes
 - Latest direct update: `libipasirglucose4/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/interpreters/acl2/libipasirglucose4/README|libipasirglucose4]]
+<!-- PARA-WIKI-LINKS:END -->

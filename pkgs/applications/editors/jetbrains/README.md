@@ -2,7 +2,7 @@
 title: "jetbrains"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,13 @@ PARA area folder under editors. Contains 6 subfolders and 2 direct files.
 
 ## Notes
 - Latest direct update: `builder/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jetbrains/builder/README|builder]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jetbrains/ides/README|ides]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jetbrains/patches/README|patches]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jetbrains/plugins/README|plugins]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jetbrains/source/README|source]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/editors/jetbrains/updater/README|updater]]
+<!-- PARA-WIKI-LINKS:END -->

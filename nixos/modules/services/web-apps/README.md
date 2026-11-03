@@ -2,7 +2,7 @@
 title: "web apps"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,10 @@ PARA area folder under services. Contains 3 subfolders and 222 direct files.
 
 ## Notes
 - Latest direct update: `icingaweb2/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/modules/services/web-apps/icingaweb2/README|icingaweb2]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/modules/services/web-apps/kasmweb/README|kasmweb]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/nixos/modules/services/web-apps/porn-vault/README|porn vault]]
+<!-- PARA-WIKI-LINKS:END -->

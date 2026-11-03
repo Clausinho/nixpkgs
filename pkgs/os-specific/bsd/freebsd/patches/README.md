@@ -2,7 +2,7 @@
 title: "patches"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -22,3 +22,10 @@ PARA area folder under freebsd. Contains 3 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `13.1/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/os-specific/bsd/freebsd/patches/13.1/README|13.1]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/os-specific/bsd/freebsd/patches/14.2/README|14.2]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/os-specific/bsd/freebsd/patches/15.0/README|15.0]]
+<!-- PARA-WIKI-LINKS:END -->

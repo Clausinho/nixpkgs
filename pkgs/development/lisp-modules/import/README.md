@@ -2,7 +2,7 @@
 title: "import"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,9 @@ PARA area folder under lisp modules. Contains 2 subfolders and 7 direct files.
 
 ## Notes
 - Latest direct update: `database/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/lisp-modules/import/database/README|database]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/development/lisp-modules/import/repository/README|repository]]
+<!-- PARA-WIKI-LINKS:END -->

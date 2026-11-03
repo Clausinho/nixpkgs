@@ -2,7 +2,7 @@
 title: "termite"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -21,3 +21,8 @@ PARA area folder under terminal emulators. Contains 1 subfolders and 5 direct fi
 
 ## Notes
 - Latest direct update: `vte-ng-modified-patches/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs/pkgs/applications/terminal-emulators/termite/vte-ng-modified-patches/README|vte ng modified patches]]
+<!-- PARA-WIKI-LINKS:END -->
