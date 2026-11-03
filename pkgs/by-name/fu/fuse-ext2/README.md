@@ -1,0 +1,24 @@
+---
+title: "fuse ext2"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# fuse ext2
+
+## Summary
+PARA area folder under fu. Contains 0 subfolders and 3 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `darwin-no-installer.patch` — PATCH file
+- `remove-impure-paths.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/fu/README|fu]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

@@ -2,7 +2,7 @@
 title: "brother"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -22,3 +22,10 @@ PARA area folder under drivers. Contains 3 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `dcp375cw/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/misc/cups/drivers/brother/dcp375cw/README|dcp375cw]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/misc/cups/drivers/brother/dcp9020cdw/README|dcp9020cdw]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/misc/cups/drivers/brother/mfcl3770cdw/README|mfcl3770cdw]]
+<!-- PARA-WIKI-LINKS:END -->

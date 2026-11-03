@@ -2,7 +2,7 @@
 title: "non generated"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -24,3 +24,19 @@ PARA area folder under plugins. Contains 44 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `avante-nvim/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/avante-nvim/README|avante nvim]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/bitbake-vim/README|bitbake vim]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/blink-cmp/README|blink cmp]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/blink-pairs/README|blink pairs]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/clangd_extensions-nvim/README|clangd extensions nvim]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/cmp-async-path/README|cmp async path]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/codediff-nvim/README|codediff nvim]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/codesnap-nvim/README|codesnap nvim]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/cord-nvim/README|cord nvim]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/fff-nvim/README|fff nvim]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/fzf-wrapper/README|fzf wrapper]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/editors/vim/plugins/non-generated/gitlab-vim/README|gitlab vim]]
+<!-- PARA-WIKI-LINKS:END -->

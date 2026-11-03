@@ -1,0 +1,24 @@
+---
+title: "git credential manager"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# git credential manager
+
+## Summary
+PARA area folder under version management. Contains 0 subfolders and 3 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `deps.json` — JSON file
+- `update.sh` — SH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/version-management/README|version management]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

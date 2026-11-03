@@ -2,7 +2,7 @@
 title: "project references"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -20,3 +20,9 @@ PARA area folder under dotnet. Contains 2 subfolders and 2 direct files.
 
 ## Notes
 - Latest direct update: `application/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/test/dotnet/project-references/application/README|application]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/test/dotnet/project-references/library/README|library]]
+<!-- PARA-WIKI-LINKS:END -->

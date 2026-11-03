@@ -1,0 +1,24 @@
+---
+title: "vpp"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# vpp
+
+## Summary
+PARA area folder under vp. Contains 0 subfolders and 3 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `use-dynamic-libs.patch` — PATCH file
+- `xdp-skb-mode.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/vp/README|vp]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

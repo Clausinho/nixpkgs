@@ -1,0 +1,23 @@
+---
+title: "ideamaker"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# ideamaker
+
+## Summary
+PARA area folder under id. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `mimetypes.xml` — XML file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/id/README|id]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

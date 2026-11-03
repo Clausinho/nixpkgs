@@ -1,0 +1,24 @@
+---
+title: "ncdns"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# ncdns
+
+## Summary
+PARA area folder under nc. Contains 0 subfolders and 6 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `fix-tpl-path.patch` — PATCH file
+- `ncdns-go.mod` — MOD file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/nc/README|nc]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

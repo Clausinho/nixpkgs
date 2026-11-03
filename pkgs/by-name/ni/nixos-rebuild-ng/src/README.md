@@ -2,7 +2,7 @@
 title: "src"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -19,3 +19,8 @@ PARA area folder under nixos rebuild ng. Contains 2 subfolders and 1 direct file
 
 ## Notes
 - Latest direct update: `nixos_rebuild/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ni/nixos-rebuild-ng/src/nixos_rebuild/README|nixos rebuild]]
+<!-- PARA-WIKI-LINKS:END -->

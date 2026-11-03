@@ -2,7 +2,7 @@
 title: "libiconv"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -22,3 +22,8 @@ PARA area folder under apple source releases. Contains 1 subfolders and 5 direct
 
 ## Notes
 - Latest direct update: `patches/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/os-specific/darwin/apple-source-releases/libiconv/patches/README|patches]]
+<!-- PARA-WIKI-LINKS:END -->

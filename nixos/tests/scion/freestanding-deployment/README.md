@@ -1,0 +1,24 @@
+---
+title: "freestanding deployment"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# freestanding deployment
+
+## Summary
+PARA area folder under scion. Contains 0 subfolders and 8 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `bootstrap.sh` — SH file
+- `README.rst` — RST file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/nixos/tests/scion/README|scion]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

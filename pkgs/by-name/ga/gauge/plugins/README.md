@@ -2,7 +2,7 @@
 title: "plugins"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -22,3 +22,15 @@ PARA area folder under gauge. Contains 8 subfolders and 3 direct files.
 
 ## Notes
 - Latest direct update: `dotnet/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/dotnet/README|dotnet]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/go/README|go]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/html-report/README|html report]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/java/README|java]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/js/README|js]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/ruby/README|ruby]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/screenshot/README|screenshot]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/ga/gauge/plugins/xml-report/README|xml report]]
+<!-- PARA-WIKI-LINKS:END -->

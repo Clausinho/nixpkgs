@@ -2,7 +2,7 @@
 title: "grafana"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -19,3 +19,8 @@ PARA area folder under monitoring. Contains 1 subfolders and 0 direct files.
 
 ## Notes
 - Latest direct update: `plugins/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/monitoring/grafana/plugins/README|plugins]]
+<!-- PARA-WIKI-LINKS:END -->

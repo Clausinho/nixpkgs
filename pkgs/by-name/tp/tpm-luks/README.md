@@ -1,0 +1,24 @@
+---
+title: "tpm luks"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# tpm luks
+
+## Summary
+PARA area folder under tp. Contains 0 subfolders and 3 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `openssl-1.1.patch` — PATCH file
+- `signed-ptr.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/tp/README|tp]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

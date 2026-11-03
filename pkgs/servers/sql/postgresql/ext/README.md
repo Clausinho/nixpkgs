@@ -2,7 +2,7 @@
 title: "ext"
 para_type: area
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-09-08
 tags: [area, wiki]
 ---
 
@@ -22,3 +22,11 @@ PARA area folder under postgresql. Contains 4 subfolders and 66 direct files.
 
 ## Notes
 - Latest direct update: `pgvectorscale/`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/sql/postgresql/ext/pgvectorscale/README|pgvectorscale]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/sql/postgresql/ext/plv8/README|plv8]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/sql/postgresql/ext/pointcloud/README|pointcloud]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/servers/sql/postgresql/ext/vectorchord/README|vectorchord]]
+<!-- PARA-WIKI-LINKS:END -->

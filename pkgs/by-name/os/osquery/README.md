@@ -1,0 +1,24 @@
+---
+title: "osquery"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# osquery
+
+## Summary
+PARA area folder under os. Contains 0 subfolders and 5 direct files.
+
+## Key Files
+- `info.json` — JSON file
+- `package.nix` — NIX file
+- `toolchain-bin.nix` — NIX file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/os/README|os]]
+
+## Notes
+- Latest direct update: `info.json`
+- Latest recursive update: `info.json`

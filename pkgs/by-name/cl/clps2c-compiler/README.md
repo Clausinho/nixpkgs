@@ -1,0 +1,29 @@
+---
+title: "clps2c compiler"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-08
+tags: [area, wiki]
+---
+
+# clps2c compiler
+
+## Summary
+PARA area folder under cl. Contains 1 subfolders and 2 direct files.
+
+## Key Files
+- `deps.json` — JSON file
+- `package.nix` — NIX file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/cl/README|cl]]
+- Children: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/cl/clps2c-compiler/patches/README|patches]]
+
+## Notes
+- Latest direct update: `patches/`
+- Latest recursive update: `patches/README.md`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/cl/clps2c-compiler/patches/README|patches]]
+<!-- PARA-WIKI-LINKS:END -->

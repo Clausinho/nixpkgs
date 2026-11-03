@@ -1,0 +1,33 @@
+---
+title: "chemistry"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-08
+tags: [area, wiki]
+---
+
+# chemistry
+
+## Summary
+PARA area folder under science. Contains 4 subfolders and 0 direct files.
+
+## Key Files
+- `autodock-vina/` — child folder
+- `avogadro2/` — child folder
+- `nwchem/` — child folder
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/README|science]]
+- Children: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/autodock-vina/README|autodock vina]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/avogadro2/README|avogadro2]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/nwchem/README|nwchem]], [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/quantum-espresso/README|quantum espresso]]
+
+## Notes
+- Latest direct update: `autodock-vina/`
+- Latest recursive update: `autodock-vina/README.md`
+
+<!-- PARA-WIKI-LINKS:START -->
+## Wiki Links
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/autodock-vina/README|autodock vina]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/avogadro2/README|avogadro2]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/nwchem/README|nwchem]]
+- [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/applications/science/chemistry/quantum-espresso/README|quantum espresso]]
+<!-- PARA-WIKI-LINKS:END -->

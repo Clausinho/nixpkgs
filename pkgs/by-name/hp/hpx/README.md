@@ -1,0 +1,23 @@
+---
+title: "hpx"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# hpx
+
+## Summary
+PARA area folder under hp. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `remove_deprecated_asio_features.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/hp/README|hp]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`

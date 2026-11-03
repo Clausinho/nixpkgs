@@ -1,0 +1,23 @@
+---
+title: "qt5"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# qt5
+
+## Summary
+PARA area folder under emilua plugins. Contains 0 subfolders and 2 direct files.
+
+## Key Files
+- `default.nix` — NIX file
+- `basic_test.lua` — LUA file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/development/emilua-plugins/README|emilua plugins]]
+
+## Notes
+- Latest direct update: `default.nix`
+- Latest recursive update: `default.nix`

@@ -1,0 +1,24 @@
+---
+title: "tla"
+para_type: area
+created: 2026-09-07
+updated: 2026-09-07
+tags: [area, wiki]
+---
+
+# tla
+
+## Summary
+PARA area folder under tl. Contains 0 subfolders and 3 direct files.
+
+## Key Files
+- `package.nix` — NIX file
+- `fix-gcc14.patch` — PATCH file
+- `configure-tmpdir.patch` — PATCH file
+
+## Related
+- Parent: [[02_Areas/60_Infrastructure/60.01_nix-config/nixpkgs-clausinho/pkgs/by-name/tl/README|tl]]
+
+## Notes
+- Latest direct update: `package.nix`
+- Latest recursive update: `package.nix`
